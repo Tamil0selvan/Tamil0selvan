@@ -28,7 +28,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css, bootstrap,  js, react,angular,express, nestjs, nodejs,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,express,nestjs,nodejs,mongodb,git,docker" />
 
 
   </a>
