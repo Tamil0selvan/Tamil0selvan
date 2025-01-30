@@ -21,13 +21,6 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 - **GraphQL** and **Apollo** for efficient data fetching and managing APIs
 - **Typescript** for better code quality and scalability
 
-### 💡 **What I love:**
-
-- Turning ideas into code and seeing the results in action
-- Building intuitive user interfaces and improving UI/UX
-- Writing clean, maintainable code that others can easily work with
-- Exploring new technologies and staying updated with the latest trends in the tech world
-
 ### 📫 **Let's Connect:**
 
 Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development! You can also find me on [LinkedIn](https://www.linkedin.com) or [Twitter](https://twitter.com).
