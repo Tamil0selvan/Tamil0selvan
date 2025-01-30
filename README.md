@@ -1,10 +1,40 @@
 ![Software Developer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Developer)
 
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Tamil Selvan
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+
+
+I'm a passionate software developer with a focus on **Frontend Development** and the **MERN Stack** (MongoDB, Express, React, Node.js). I enjoy building clean, efficient, and scalable web applications that solve real-world problems. With a strong foundation in web development, I strive to create seamless user experiences and high-performance applications. 🚀
+
+### 🔧 **Technologies I work with:**
+
+- **Frontend**: React, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, Firebase, PostgreSQL
+- **Version Control**: Git, GitHub, GitLab
+- **Testing & Deployment**: Jest, Cypress, Docker, Netlify, Heroku, AWS
+
+### 🌱 **Currently learning:**
+
+- Advanced React and **Next.js** for server-side rendering and static site generation
+- **GraphQL** and **Apollo** for efficient data fetching and managing APIs
+- **Typescript** for better code quality and scalability
+
+### 💡 **What I love:**
+
+- Turning ideas into code and seeing the results in action
+- Building intuitive user interfaces and improving UI/UX
+- Writing clean, maintainable code that others can easily work with
+- Exploring new technologies and staying updated with the latest trends in the tech world
+
+### 📫 **Let's Connect:**
+
+Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development! You can also find me on [LinkedIn](https://www.linkedin.com) or [Twitter](https://twitter.com).
+
+---
+
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
