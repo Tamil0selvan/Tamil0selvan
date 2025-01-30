@@ -20,8 +20,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 - **Typescript** for better code quality and scalability
 
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
-
-### 🧰 Languages and Tools
+<h1> 🧰 Languages and Tools</h1>
 ![Tamil Selvan GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <p align="center">
