@@ -26,6 +26,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development! You can also find me on [LinkedIn](https://www.linkedin.com) or [Twitter](https://twitter.com).
 
 ---
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 
 
