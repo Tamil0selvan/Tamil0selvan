@@ -35,7 +35,15 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 <br />
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
-### 📫 **Let's Connect:**
+## Let's Connect! 🌐
 
-Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development! You can also find me on [LinkedIn](https://www.linkedin.com) or [Twitter](https://twitter.com).
+Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development. You can connect with me on the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+- [Twitter](https://twitter.com/your-twitter-handle)  
+- [Dev.to](https://dev.to/your-devto-profile)  
+- [Email](mailto:your-email@example.com)
+
+Let's build something amazing together! 🚀
+
 
