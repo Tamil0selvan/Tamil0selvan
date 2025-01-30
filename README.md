@@ -1,1 +1,1 @@
-![Tamil Selvan][([https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Tamil%20Selvan](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Developer))](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Developer)
+![Software Developer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Developer)
