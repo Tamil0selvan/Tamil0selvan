@@ -24,10 +24,9 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 ### 🧰 Languages and Tools
 ![Tamil Selvan GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,express,nestjs,nodejs,mongodb,git,docker" width="500" height="400" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,express,nestjs,nodejs,mongodb,git,docker" width="150" />
   </a>
 </p>
 
