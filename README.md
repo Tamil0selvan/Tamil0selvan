@@ -45,7 +45,7 @@ Feel free to reach out if you'd like to collaborate, share ideas, or chat about 
 
 📫 Reach me at [tamilselvansevugan27@gmail.com]  
 🌐 Check out my portfolio: [https://tamilselvansevuganportfolio.netlify.app/] 
-💻 Let’s connect on [LinkedIn](https://linkedin.com/in/Tamilselvan-sevugan)  
+💻 Let’s connect on [LinkedIn](https://linkedin.com/in/Tamilselvan-sevugan)
 
 Let's build something amazing together! 🚀
 
