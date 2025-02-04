@@ -43,7 +43,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development. You can connect with me on the following platforms:
 
-📫 Reach me at [tamilselvansevugan@gmail.com]  
+📫 Reach me at [tamilselvansevugan27@gmail.com]  
 🌐 Check out my portfolio: [https://tamilselvanprotfolio.netlify.app/]  
 💻 Let’s connect on [LinkedIn](https://linkedin.com/in/Tamilselvan-sevugan)  
 
