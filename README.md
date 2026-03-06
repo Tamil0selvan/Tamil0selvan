@@ -32,7 +32,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,java,spring,idea,github,git,visualstudio,vscode,postman,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,java,spring,idea,postgres,mysql,github,visualstudio,vscode,postman" />
   </a>
 
 </p>
