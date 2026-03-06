@@ -7,11 +7,13 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 ### 🔧 **Technologies I work with:**
 
-- **Frontend**: React, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, Firebase, PostgreSQL
+- **Frontend**: React, JavaScript, HTML5, CSS3, CSS3, Bootstrap
+- **Backend**: Java , Springboot
+- **BI & Data Tools**: Power BI, Qlik Sense Cloud, SSIS (Basic), SSRS (Basic), SSAS (Basic)
+- **Databases**: Microsoft SQL Server,MySQL, PostgreSQL
 - **Version Control**: Git, GitHub, GitLab
-- **Testing & Deployment**: Jest, Cypress, Docker, Netlify, Heroku, AWS
+- **Testing & Deployment**: Postman, IntelliJ IDEA, Visual Studio Code
+
 
 ### 🌱 **Currently learning:**
 
