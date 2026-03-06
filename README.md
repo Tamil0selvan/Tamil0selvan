@@ -3,11 +3,11 @@
 
 
 
-I'm a passionate software developer with a focus on **Frontend Development** and the **MERN Stack** (MongoDB, Express, React, Node.js). I enjoy building clean, efficient, and scalable web applications that solve real-world problems. With a strong foundation in web development, I strive to create seamless user experiences and high-performance applications. 🚀
+I'm a passionate software developer with a focus on **Frontend Development** and the **Backend Development** (Java,Spring Boot, React, JavaScript). I enjoy building clean, efficient, and scalable web applications that solve real-world problems. With a strong foundation in web development, I strive to create seamless user experiences and high-performance applications. 🚀
 
 ### 🔧 **Technologies I work with:**
 
-- **Frontend**: React, JavaScript, HTML5, CSS3, CSS3, Bootstrap
+- **Frontend**: React, JavaScript, HTML5, CSS3, Bootstrap
 - **Backend**: Java , Springboot
 - **BI & Data Tools**: Power BI, Qlik Sense Cloud, SSIS (Basic), SSRS (Basic), SSAS (Basic)
 - **Databases**: Microsoft SQL Server,MySQL, PostgreSQL
@@ -32,7 +32,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,angular,express,nestjs,nodejs,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vite,java,spring,idea,github,git,visualstudio,vscode,postman,postgres" />
   </a>
 
 </p>
@@ -45,7 +45,7 @@ I'm a passionate software developer with a focus on **Frontend Development** and
 
 Feel free to reach out if you'd like to collaborate, share ideas, or chat about web development. You can connect with me on the following platforms:
 
-📫 Reach me at [tamilselvansevugan27@gmail.com]  
+📫 Reach me at [tamilselvansevugan28@gmail.com]  
 🌐 Check out my portfolio:[https://tamilselvansevuganportfolio.netlify.app]
 💻 Let’s connect on [LinkedIn](https://linkedin.com/in/Tamilselvan-sevugan)
 
